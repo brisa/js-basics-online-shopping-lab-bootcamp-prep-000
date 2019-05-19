@@ -11,9 +11,9 @@ function setCart(c) {
 
 function addToCart(item) {
  // write your code here
- let item = {
-   itemName: itemName,
-   itemPrice: itemPrice
+ let newItem = {
+   itemName: item.name,
+   itemPrice: item.price
  }
 }
 
