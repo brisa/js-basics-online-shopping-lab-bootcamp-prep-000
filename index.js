@@ -11,6 +11,10 @@ function setCart(c) {
 
 function addToCart(item) {
  // write your code here
+ let item = {
+   itemName: itemName,
+   itemPrice: itemPrice
+ }
 }
 
 function viewCart() {
